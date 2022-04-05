@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NIC-cook
-- 👀我对java、mysql、javaFX、c感兴趣
-- 🌱我目前正在学习java
+- 👀我对java、mysql、javaFX、c、html、css、js、servlet、jsp感兴趣
+- 🌱我目前正在学习Spring
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
