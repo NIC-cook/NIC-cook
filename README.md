@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NIC-cook
-- 👀我对java、mysql、javaFX、c、html、css、js、servlet、jsp、嵌入式等感兴趣
+- 👀我对嵌入式、web开发等感兴趣
 - 🌱我目前正在学习SSM、springboot、stm32
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
